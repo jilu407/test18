@@ -33,7 +33,7 @@ jobs:
       - name: Run a multi-line script
         shell: pwsh
         run: |
-          if [[ "${{inputs.myVar}}" != "" ]]; then 
+          if [[ "77" != "77" ]]; then 
           aws ...
           fi
           hhhhhhhhhhhhhhhhh
